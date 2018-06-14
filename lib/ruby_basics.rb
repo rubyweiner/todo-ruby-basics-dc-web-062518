@@ -1,5 +1,6 @@
 def division(num1, num2)
-  x = num1
+  x = num1/num2
+  return x
  
 end
 
